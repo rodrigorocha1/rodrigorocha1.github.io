@@ -1,0 +1,49 @@
+/* Estilo existente para o body e footer */
+html {
+    background-color: #191919;
+    color: white;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #2A2A2A;
+    padding: 10px;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+}
+
+.brand img {
+    height: 40px; /* Ajuste o tamanho do logotipo */
+    margin-right: 10px; /* Espaçamento entre o logotipo e o texto */
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex; /* Alinha os itens em linha */
+    margin-left: auto; /* Empurra os links para a direita */
+}
+
+nav li {
+    margin-left: 20px; /* Espaçamento entre os itens da lista */
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+
+.card {
+    background-color: aqua;
+}
