@@ -15,7 +15,9 @@ nav {
     align-items: center;
     justify-content: space-between;
     background-color: #2A2A2A;
-    padding: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    
 }
 
 .brand {
@@ -25,7 +27,7 @@ nav {
 
 .brand img {
     height: 40px; /* Ajuste o tamanho do logotipo */
-    margin-right: 10px; /* Espaçamento entre o logotipo e o texto */
+    margin-right: 20px; /* Espaçamento entre o logotipo e o texto */
 }
 
 nav ul {
@@ -37,7 +39,7 @@ nav ul {
 }
 
 nav li {
-    margin-left: 20px; /* Espaçamento entre os itens da lista */
+    margin-left: 30px; /* Espaçamento entre os itens da lista */
 }
 
 nav a {

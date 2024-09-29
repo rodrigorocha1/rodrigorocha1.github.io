@@ -20,37 +20,31 @@ title: Página Inicial
 
 <div class="column_img">
   <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Imagem 1">
-    <figcaption>Legenda 1</figcaption>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow">
+    <figcaption>Apache Airflow</figcaption>
   </figure>
   <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Imagem 2">
-    <figcaption>Legenda 2</figcaption>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pentaho data integration">
+    <figcaption>Pentaho data integration</figcaption>
   </figure>
   <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Imagem 3">
-    <figcaption>Legenda 3</figcaption>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium">
+    <figcaption>Selenium</figcaption>
   </figure>
   <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Imagem 4">
-    <figcaption>Legenda 4</figcaption>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="Apache Spark">
+    <figcaption>Apache Spark</figcaption>
   </figure>
   <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Imagem 5">
-    <figcaption>Legenda 5</figcaption>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="Plotly">
+    <figcaption>Plotly</figcaption>
   </figure>
   <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Imagem 6">
-    <figcaption>Legenda 6</figcaption>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas">
+    <figcaption>Pandas</figcaption>
   </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Imagem 6">
-    <figcaption>Legenda 6</figcaption>
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Imagem 6">
-    <figcaption>Legenda 6</figcaption>
-  </figure>
+
+
   
 </div>
 
