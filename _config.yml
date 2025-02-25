@@ -27,9 +27,9 @@ urls:
 author_logo: profile.png
 author: Rodrigo Rocha
 author_bio: Olá, meu nome é Rodrigo.  :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
+author_email: "silva.rodrigo31@gmail.com"
+author_location: Ribeirão Preto / SP
+author_website_url: ""
 typewrite-text: Portfolio para demonstrar conhecimento na área de dados 
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
