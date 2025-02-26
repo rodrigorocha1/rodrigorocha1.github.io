@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
     - text: Ínicio
       url: /
-    - text: Sobre
+    - text: Sobre mim
       url: /about
     - text: Projetos Pessoais Desenvolvidos
       url: /blog
