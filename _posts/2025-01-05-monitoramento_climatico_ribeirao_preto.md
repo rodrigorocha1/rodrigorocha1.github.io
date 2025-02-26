@@ -4,11 +4,11 @@ title:  "Sistema de Monitoramento Climático de Ribeirão Preto"
 summary: "Este projeto tem como objetivo propor um sistema de monitoramento climático para a região de Ribeirão Preto, utilizando Apache Kafka para coleta de dados e Grafana para visualização e análise em tempo real."
 author: Rodrigo
 date: '2025-02-26 20:11:00 -0300'
-category: ['grafana', 'apache_hive', 'python']
-thumbnail: /assets/img/posts/monitoramento_kafka_grafana/monitoramento_kafka_grafana.jpg
+category: ['grafana', 'apache_kafka', 'python']
+thumbnail: /assets/img/posts/monitoramento_climatico_ribeirao_preto/monitoramento_kafka_grafana.jpg
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi author
 usemathjax: true
-permalink: /blog/teste_post_dois/
+permalink: /blog/monitoramento_climatico_ribeirao_preto/
 ---
 # Sistema de Monitoramento Climático de Ribeirão Preto
 
