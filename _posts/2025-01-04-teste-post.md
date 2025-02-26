@@ -11,4 +11,22 @@ usemathjax: true
 permalink: /blog/teste_post/
 ---
 
-## Now Multiple Authors Can Create Articles:
+# Título Principal
+
+## Subtítulo
+
+Este é um parágrafo em **negrito** e *itálico*. 
+
+- Lista não ordenada, item 1
+- Lista não ordenada, item 2
+
+1. Lista ordenada, item 1
+2. Lista ordenada, item 2
+
+> Isso é uma citação.
+
+[Clique aqui](https://example.com) para visitar um site.
+
+```python
+
+print("Olá, Mundo!")
