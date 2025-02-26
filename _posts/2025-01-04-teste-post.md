@@ -4,7 +4,7 @@ title:  "Teste de post"
 summary: "Teste de post"
 author: Rodrigo
 date: '2024-10-24 22:35:23 -0300'
-category: ['Apache Hive','guides', 'sample_category']
+category: ['apache_hive','guides', 'sample_category']
 thumbnail: /assets/img/posts/code.jpg
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi author
 usemathjax: true
