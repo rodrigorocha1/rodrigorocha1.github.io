@@ -4,7 +4,7 @@ title:  "Teste de post"
 summary: "Teste de post"
 author: Rodrigo
 date: '2024-10-24 22:35:23 -0300'
-category: jekyll
+category: ['Apache Hive','guides', 'sample_category']
 thumbnail: /assets/img/posts/code.jpg
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi author
 usemathjax: true
@@ -25,8 +25,4 @@ Este é um parágrafo em **negrito** e *itálico*.
 
 > Isso é uma citação.
 
-[Clique aqui](https://example.com) para visitar um site.
-
-```python
-
-print("Olá, Mundo!")
+[Clique aqui](https://www.google.com.br/) para visitar um site.
