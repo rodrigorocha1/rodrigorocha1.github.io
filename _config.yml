@@ -1,4 +1,4 @@
-title: Portfólio Rodrigo Rocha - Dados
+title: Portfólio Rodrigo Rocha
 subtitle: Portfólio para demonstrar conhecimento na área de dados
 description: >- # this means to ignore newlines until "baseurl:"
   Portfślio para demonstrar conhecimento na área de dados
@@ -26,7 +26,7 @@ urls:
 
 author_logo: profile.png
 author: Rodrigo Rocha
-author_bio: Olá, meu nome é Rodrigo.  :D
+author_bio: Hoje trabalho com Pentaho data Integration, SQL (Consulta Simples No Banco de dados) Consumo de API (REST E SOAP)
 author_email: "silva.rodrigo31@gmail.com"
 author_location: Ribeirão Preto / SP
 author_website_url: ""
@@ -35,26 +35,45 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
+            - company_name: BLP.IT INTEGRAÇÃO E AUTOMAÇÂO DE PROCESSOS
               company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+              company_url: https://blpit.com.br/
+              designation: ANALISTA DE DESENVOLVIMENTO DE SISTEMAS (JULHO DE 2020 - ATÉ O MOMENTO)
+              description: |
+                <ul>
+                  <li>Desenvolvimento de Integrações usando Pentaho</li>
+                  <li>Consulta simples no banco de dados</li>
+                  <li>Consumo de API (REST e SOAP)</li>
+                  <li>Integração com ERP’s Sankhya, Alterdata, Senior, Cigam</li>
+                  <li>Integrações com força de Vendas como Mercos, MáximaTech</li>
+                  <li>Integração com e-commerce com Tray, Convertize</li>
+                </ul>
+
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+
+            - company_name: BLP.IT INTEGRAÇÃO E AUTOMAÇÂO DE PROCESSOS
+              company_logo: google.png
+              company_url: https://blpit.com.br/
+              designation: ESTAGIÁRIO (FEVEREIRO DE 2019 - JUNHO DE 2020)
+              description: |
+                <ul>
+                  <li>Desenvolvimento de Integrações usando Pentaho</li>
+                  <li>Consulta simples no banco de dados</li>
+                  <li>Consumo de API (REST e SOAP)</li>
+                  <li>Integração com ERP’s Sankyha, Alterdata, Senior</li>
+                  <li>IIntegrações com força de Vendas como Mercos, MáximaTech</li>
+                </ul>
+
               visibility: true
+        
 
 # Education
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+                college_name: Faculdade de Tecnologia de Ribeirão Preto
+                college_url: http://www.fatecrp.edu.br/
+                college_degree: Graduação
+                description: Análise e Desenvolvimento de Sistemas
                 visibility: true
 
 # Projects
@@ -63,12 +82,12 @@ author_project_details:
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://gamershub.in
-                visibility: true
+                visibility: false
               - project_thumbnail: hack4r.PNG
                 project_title: Hack4r
                 project_description: A Platform built for Hackers and Penetration Testers
                 project_url: https://hack4r.com
-                visibility: true
+                visibility: false
 
 # social links
 twitter_username: xplor4r
