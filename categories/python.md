@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Apache Hive
-permalink: /blog/categories/apache_hive/
+title: Python
+permalink: /blog/categories/python/
 ---
 
 <h5> Posts por Categoria : {{ page.title }} </h5>

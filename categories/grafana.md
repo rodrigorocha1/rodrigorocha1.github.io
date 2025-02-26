@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Apache Hive
-permalink: /blog/categories/apache_hive/
+title: Grafana
+permalink: /blog/categories/grafana/
 ---
 
 <h5> Posts por Categoria : {{ page.title }} </h5>
