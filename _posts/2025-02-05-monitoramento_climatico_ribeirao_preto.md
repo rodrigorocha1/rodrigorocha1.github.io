@@ -6,7 +6,7 @@ author: Rodrigo
 date: '2025-02-26 20:11:00 -0300'
 category: ['grafana', 'apache_kafka', 'python']
 thumbnail: /assets/img/posts/monitoramento_climatico_ribeirao_preto/monitoramento_kafka_grafana.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi author
+keywords: Ribeirão Preto, grafana, apache kafka, python, tempo real
 usemathjax: true
 permalink: /blog/monitoramento_climatico_ribeirao_preto/
 ---
@@ -55,21 +55,84 @@ Exibe a velocidade do vento junto com sua respectiva classificação na escala d
 
 #### Escala de Beaufort para Velocidade dos Ventos
 
-| Força | Velocidade do Vento (km/h) | Descrição             |
-|-------|----------------------------|-----------------------|
-| 0     | 0 – 1                      | Calmaria              |
-| 1     | 2 – 5                      | Brisa muito leve      |
-| 2     | 6 – 11                     | Brisa leve            |
-| 3     | 12 – 19                    | Brisa fraca           |
-| 4     | 20 – 28                    | Brisa moderada        |
-| 5     | 29 – 38                    | Brisa forte           |
-| 6     | 39 – 49                    | Vento fresco          |
-| 7     | 50 – 61                    | Vento forte           |
-| 8     | 62 – 74                    | Ventania              |
-| 9     | 75 – 88                    | Ventania forte        |
-| 10    | 89 – 102                   | Temporal              |
-| 11    | 103 – 117                  | Tempestade violenta   |
-| 12    | 118 ou mais                | Furacão               |
+<table>
+  <thead>
+    <tr>
+      <th>Força  </th>
+      <th>Velocidade do Vento (km/h)</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0</td>
+      <td>0 – 1</td>
+      <td>Calmaria</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>2 – 5</td>
+      <td>Brisa muito leve</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>6 – 11</td>
+      <td>Brisa leve</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>12 – 19</td>
+      <td>Brisa fraca</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>20 – 28</td>
+      <td>Brisa moderada</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>29 – 38</td>
+      <td>Brisa forte</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>39 – 49</td>
+      <td>Vento fresco</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>50 – 61</td>
+      <td>Vento forte</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>62 – 74</td>
+      <td>Ventania</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>75 – 88</td>
+      <td>Ventania forte</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>89 – 102</td>
+      <td>Temporal</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>103 – 117</td>
+      <td>Tempestade violenta</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>118 ou mais</td>
+      <td>Furacão</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ### 3. Temperatura, Umidade, Velocidade, Pressão Atmosférica e Visibilidade
 
@@ -87,3 +150,5 @@ Abaixo está uma captura de tela da interface do Grafana mostrando o dashboard c
 
 
 [![Assistir ao vídeo de demonstração do dashboard](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/G23vsXYHjIo)
+
+[Link do reposítório](https://github.com/rodrigorocha1/monitoramento_condicoes_climaticas_kafka_grafana)

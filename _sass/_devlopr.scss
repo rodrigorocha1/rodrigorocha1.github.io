@@ -1224,6 +1224,50 @@ footer {
     font-size: 15px;
  }
 
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+  
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+
+    font-weight: bold;
+}
+
+/* Controle de espaçamento */
+.table-spacing-small th, .table-spacing-small td {
+    padding: 8px;
+}
+
+.table-spacing-medium th, .table-spacing-medium td {
+    padding: 16px;
+}
+
+.table-spacing-large th, .table-spacing-large td {
+    padding: 24px;
+}
+
+/* Botões para alterar o espaçamento */
+.spacing-buttons {
+    margin-bottom: 20px;
+}
+
+.spacing-buttons button {
+    padding: 8px 12px;
+    margin-right: 10px;
+    cursor: pointer;
+    border: none;
+
+    border-radius: 4px;
+}
+
  /* Syntax Hightlighter */
  .highlight pre { background-color: #212529; padding: 20px;}
 .highlight .hll { background-color: #272822; }
