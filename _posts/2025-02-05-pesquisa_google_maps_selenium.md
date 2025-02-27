@@ -33,7 +33,11 @@ A figura abaixo mostra o diagrama de classe para o serviço de web scraping.A pr
 
 
 ## 4 — Vídeo com a demonstração do web scraping
-[Clique aqui para ver a demonstração](https://youtu.be/tLYOw8iu-SM)
+
+
+[![Assistir ao vídeo de demonstração do dashboard](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/tLYOw8iu-SM)
+
+
 
 [Link do reposítório](https://github.com/rodrigorocha1/pesquisa_google_maps_selenium)
 
