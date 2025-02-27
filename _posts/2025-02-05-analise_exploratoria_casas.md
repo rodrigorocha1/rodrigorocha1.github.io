@@ -5,7 +5,7 @@ summary: "Os dados foram extraídos do site vivareal (https://www.vivareal.com.b
 author: Rodrigo
 date: '2025-02-26 22:59:00 -0300'
 category: ['python', 'analise_exploratoria']
-thumbnail: /assets/img/posts/web_scraping_casas/thumb.png
+thumbnail: /assets/img/posts/analise_exploratoria_casas/thumb.png
 keywords: python, webscraping, google, planilhas, selenium
 usemathjax: true
 permalink: /blog/analise_exploratoria_casas
