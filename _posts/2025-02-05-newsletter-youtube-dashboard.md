@@ -4,7 +4,7 @@ title:  "Projeto: Newsletter de Vídeos do YouTube com Base na Transcrição"
 summary: "Este projeto propõe gerar uma transcrição personalizada com IA, com base na transcrição bruta dos vídeos do YouTube e gravar as transcrições em um banco de dados SQLite. Além disso, a transcrição é exibida em um dashboard interativo utilizando o Streamlit.."
 author: Rodrigo
 date: '2025-02-26 21:50:00 -0300'
-category: ['python', 'ia', 'sqlite', 'youtube',  'streamlit']
+category: ['python', 'ia','sqlite' , 'youtube',  'streamlit']
 thumbnail: /assets/img/posts/newsletter_youtube_dashboard/thumb.png
 keywords: python, ia, sqlite, youtube, streamlit
 usemathjax: true

@@ -8,7 +8,7 @@ category: ['python', 'analise_exploratoria']
 thumbnail: /assets/img/posts/web_scraping_casas/thumb.png
 keywords: python, webscraping, google, planilhas, selenium
 usemathjax: true
-permalink: /blog/web_scraping_casas
+permalink: /blog/analise_exploratoria_casas
 ---
 
 
