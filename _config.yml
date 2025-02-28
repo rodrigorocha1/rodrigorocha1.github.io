@@ -73,21 +73,20 @@ author_education_details:
                 college_name: Faculdade de Tecnologia de Ribeirão Preto
                 college_url: http://www.fatecrp.edu.br/
                 college_degree: Graduação
-                description: Análise e Desenvolvimento de Sistemas
+                description: |
+                   <p>Análise e Desenvolvimento de Sistemas</p>
+                   <p><strong>TCC:</strong> Implementando o Processo de ETL (Extract, Transform and Load) para a Análise de Variáveis Pertinentes a um Dataset Oriundo da Plataforma de Dados Abertos do Governo Federal no que Tange as Reclamações Realizadas Entre os Anos de 2017 e 2018</p>
+                   <a href="http://www.fatecrp.edu.br/WorkTec/edicoes/2020-2/trabalhos/II-Worktec-Rodrigo_Rocha.pdf" target="_blank">Clique aqui para ler o TCC</a>
                 visibility: true
 
 # Projects
 author_project_details:
               - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: false
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
-                visibility: false
+                project_title: 
+                project_description: 
+                project_url: http://www.fatecrp.edu.br/WorkTec/edicoes/2020-2/trabalhos/II-Worktec-Rodrigo_Rocha.pdf
+                visibility: true
+             
 
 # social links
 twitter_username: xplor4r
