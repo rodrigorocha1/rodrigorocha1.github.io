@@ -233,3 +233,6 @@ A figura abaixo mostra o diagrama de classe. Com base no diagrama, o processo é
 ## 5. Aprendizados
 - Criação de DAGs no Airflow (explicação sobre Hooks e Operators).
 - Organização do Data Lake e diagramas do Data Lake.
+
+## 6. Vídeo com a demonstração do projeto 
+[![Assistir ao vídeo de demonstração do projeto](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/YQ58jGFTp4s)
