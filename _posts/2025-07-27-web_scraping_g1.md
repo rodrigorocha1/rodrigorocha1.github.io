@@ -5,15 +5,11 @@ summary: ""
 author: Rodrigo
 date: '2025-07-27 11:00:00 -0300'
 category: ['python', 'beautifulsoup', 'webscraping','padrao_de_projeto']
-# thumbnail: /assets/img/posts/web_scraping_g1/web_scraping_g1.png
+thumbnail: /assets/img/posts/web_scraping_g1/web_scraping_g1.png
 keywords: python, beautifulsoup, webscraping, padrao_de_projeto
 usemathjax: true
 permalink: /blog/web_scraping_g1 
 ---
-
-<div style="text-align:center;">
-  <img src="/assets/img/posts/web_scraping_g1/web_scraping_g1.png" alt="Web Scraping G1" style="width:40%; border-radius:10px;">
-</div>
 
 
 
@@ -214,4 +210,14 @@ p1.handle(contexto)
 
 
 ## 7. Vídeo com a demonstração do projeto 
-[![Assistir ao vídeo de demonstração do projeto](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/S-rt9kp7MdY)
+<!-- [![Assistir ao vídeo de demonstração do projeto](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/S-rt9kp7MdY)
+
+<div style="text-align:center;"> -->
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/S-rt9kp7MdY" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
