@@ -49,7 +49,7 @@ O diagrama de classe do projeto, ilustrado abaixo, organiza as classes e destaca
 
 
 <div style="text-align:center;"> 
-  <iframe width="560" height="315" 
+  <iframe width="800" height="600" 
     src="https://youtu.be/mcVH0QNHtVY" 
     title="YouTube video player" 
     frameborder="0" 

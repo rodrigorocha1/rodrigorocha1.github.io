@@ -34,7 +34,7 @@ A figura abaixo, mostra um diagrama de classe para o projeto, a ideia, de maneir
 
 
 <div style="text-align:center;"> 
-  <iframe width="560" height="315" 
+  <iframe width="800" height="600" 
     src="https://youtu.be/k5ioY-fKTp" 
     title="YouTube video player" 
     frameborder="0" 

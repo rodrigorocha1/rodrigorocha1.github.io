@@ -214,7 +214,7 @@ p1.handle(contexto)
 
 <div style="text-align:center;"> -->
 <div style="text-align:center;"> 
-  <iframe width="560" height="315" 
+  <iframe width="800" height="600" 
     src="https://www.youtube.com/embed/S-rt9kp7MdY" 
     title="YouTube video player" 
     frameborder="0" 

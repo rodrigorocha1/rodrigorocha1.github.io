@@ -48,7 +48,7 @@ Você pode assistir à demonstração do processo completo no vídeo a seguir:
 
 
 <div style="text-align:center;"> 
-  <iframe width="560" height="315" 
+  <iframe width="800" height="600" 
     src="https://www.youtube.com/watch?v=HExBJzaeKzE" 
     title="YouTube video player" 
     frameborder="0" 

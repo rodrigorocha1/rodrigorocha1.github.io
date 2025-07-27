@@ -54,7 +54,7 @@ O projeto propõe uma arquitetura em tempo real para a região de Ribeirão Pret
 
 
 <div style="text-align:center;"> 
-  <iframe width="560" height="315" 
+  <iframe width="800" height="600" 
     src="https://www.youtube.com/watch?v=SdjyYmXV8i8" 
     title="YouTube video player" 
     frameborder="0" 

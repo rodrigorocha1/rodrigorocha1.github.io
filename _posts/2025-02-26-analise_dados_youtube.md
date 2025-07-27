@@ -105,7 +105,7 @@ Responsável por gerar as métricas de visualização de acordo com os assuntos 
 
 
 <div style="text-align:center;"> 
-  <iframe width="560" height="315" 
+  <iframe width="800" height="600" 
     src="https://youtu.be/lbeXxPMNq0o" 
     title="YouTube video player" 
     frameborder="0" 

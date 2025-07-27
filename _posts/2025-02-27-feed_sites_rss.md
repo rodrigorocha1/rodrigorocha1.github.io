@@ -64,7 +64,7 @@ Você pode ver o projeto em ação no seguinte link:
 
 
 <div style="text-align:center;"> 
-  <iframe width="560" height="315" 
+  <iframe width="800" height="600" 
     src="https://www.youtube.com/watch?v=ZbaxZAqrqiQ" 
     title="YouTube video player" 
     frameborder="0" 

@@ -165,7 +165,7 @@ Organização dos dashboard:
 
 
 <div style="text-align:center;"> 
-  <iframe width="560" height="315" 
+  <iframe width="800" height="600" 
     src="https://youtu.be/PAfPlOshqw8" 
     title="YouTube video player" 
     frameborder="0" 

@@ -153,7 +153,7 @@ Abaixo está uma captura de tela da interface do Grafana mostrando o dashboard c
 
 
 <div style="text-align:center;"> 
-  <iframe width="560" height="315" 
+  <iframe width="800" height="600" 
     src="https://youtu.be/G23vsXYHjIo" 
     title="YouTube video player" 
     frameborder="0" 

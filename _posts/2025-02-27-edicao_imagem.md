@@ -53,7 +53,7 @@ Para esta demonstração, foi utilizado um certificado genérico gerado no Canva
 
 
 <div style="text-align:center;"> 
-  <iframe width="560" height="315" 
+  <iframe width="800" height="600" 
     src="https://youtu.be/Bx9Vhj5DiCU" 
     title="YouTube video player" 
     frameborder="0" 
