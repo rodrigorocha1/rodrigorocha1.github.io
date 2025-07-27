@@ -5,11 +5,15 @@ summary: ""
 author: Rodrigo
 date: '2025-07-27 11:00:00 -0300'
 category: ['python', 'beautifulsoup', 'webscraping','padrao_de_projeto']
-thumbnail: /assets/img/posts/web_scraping_g1/thumb.png
+# thumbnail: /assets/img/posts/web_scraping_g1/web_scraping_g1.png
 keywords: python, beautifulsoup, webscraping, padrao_de_projeto
 usemathjax: true
 permalink: /blog/web_scraping_g1 
 ---
+
+<div style="text-align:center;">
+  <img src="/assets/img/posts/web_scraping_g1/web_scraping_g1.png" alt="Web Scraping G1" style="width:40%; border-radius:10px;">
+</div>
 
 
 
@@ -156,7 +160,7 @@ class Handler(ABC):
 
 
 
-        
+
 from src.context.pipeline_context import PipelineContext
 from src.handler_cadeia_pipeline.obternoticiag1handler import ObterUrlG1Handler
 from src.handler_cadeia_pipeline.obterrsshandler import ObterRSSHandler
@@ -210,4 +214,4 @@ p1.handle(contexto)
 
 
 ## 7. Vídeo com a demonstração do projeto 
-[![Assistir ao vídeo de demonstração do projeto](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/YQ58jGFTp4s)
+[![Assistir ao vídeo de demonstração do projeto](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Lx4MvT0R1xk)
