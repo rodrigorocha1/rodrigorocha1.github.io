@@ -162,7 +162,17 @@ Organização dos dashboard:
 # Exibição do dashboard
 
 
-[![Assistir ao vídeo de demonstração do projeto](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/PAfPlOshqw8)
+
+
+<div style="text-align:center;"> 
+  <iframe width="560" height="315" 
+    src="https://youtu.be/PAfPlOshqw8" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 [Link do reposítório](https://github.com/rodrigorocha1/extracao_dados_api_youtube_terceira_versao)
 

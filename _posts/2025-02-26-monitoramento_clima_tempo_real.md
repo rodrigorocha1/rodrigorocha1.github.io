@@ -49,7 +49,20 @@ O projeto propõe uma arquitetura em tempo real para a região de Ribeirão Pret
 ## 6 – Demonstração
 
 
-[![Assistir ao vídeo de demonstração do projeto](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=SdjyYmXV8i8)
+<!-- [![Assistir ao vídeo de demonstração do projeto](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=SdjyYmXV8i8) -->
+
+
+
+<div style="text-align:center;"> 
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/watch?v=SdjyYmXV8i8" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 
 [Link do reposítório](https://github.com/rodrigorocha1/monitoramento_clima_tempo_real)
 

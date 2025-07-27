@@ -43,4 +43,17 @@ O código do projeto está disponível no seguinte repositório: [extracao_pdf_c
 ## 3 — Vídeo com Demonstração
 
 Você pode assistir à demonstração do processo completo no vídeo a seguir:
-[![Vídeo de Demonstração]](https://www.youtube.com/watch?v=HExBJzaeKzE)
+<!-- [![Vídeo de Demonstração]](https://www.youtube.com/watch?v=HExBJzaeKzE)
+ -->
+
+
+<div style="text-align:center;"> 
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/watch?v=HExBJzaeKzE" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+

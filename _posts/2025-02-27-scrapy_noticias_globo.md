@@ -69,7 +69,7 @@ Armazene as informações extraídas em um arquivo XLSX com as colunas especific
 
 Para visualizar uma demonstração do web scraping, confira o código-fonte no [GitHub](https://github.com/rodrigorocha1/scrapy_noticias_globo).
 Confir
-Assista ao vídeo com a demonstração do projeto em [![Assistir ao vídeo de demonstração do dashboard](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/DsCQ1fLuJ2U)
+<!-- Assista ao vídeo com a demonstração do projeto em [![Assistir ao vídeo de demonstração do dashboard](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/DsCQ1fLuJ2U) -->
 
 ## Requisitos
 
@@ -78,3 +78,14 @@ Assista ao vídeo com a demonstração do projeto em [![Assistir ao vídeo de de
 - pandas
 - openpyxl
 
+
+
+<div style="text-align:center;"> 
+  <iframe width="560" height="315" 
+    src="https://youtu.be/DsCQ1fLuJ2U" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>

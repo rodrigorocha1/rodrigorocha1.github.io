@@ -235,4 +235,15 @@ A figura abaixo mostra o diagrama de classe. Com base no diagrama, o processo é
 - Organização do Data Lake e diagramas do Data Lake.
 
 ## 6. Vídeo com a demonstração do projeto 
-[![Assistir ao vídeo de demonstração do projeto](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/YQ58jGFTp4s)
+<!-- [![Assistir ao vídeo de demonstração do projeto](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/YQ58jGFTp4s) -->
+
+
+<div style="text-align:center;"> 
+  <iframe width="560" height="315" 
+    src="https://youtu.be/YQ58jGFTp4s" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>

@@ -38,6 +38,17 @@ A figura abaixo mostra o diagrama de classe para o serviço de web scraping. A p
 [![Assistir ao vídeo de demonstração do dashboard](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/k5ioY-fKTp)
 
 
+<div style="text-align:center;"> 
+  <iframe width="560" height="315" 
+    src="https://youtu.be/k5ioY-fKTp" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 
 [Link do reposítório](https://github.com/rodrigorocha1/scrapy_marketplaces_selenium)
 

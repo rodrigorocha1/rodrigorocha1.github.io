@@ -149,6 +149,18 @@ A arquitetura do sistema é mostrada abaixo, desde o monitoramento até a grava�
 Abaixo está uma captura de tela da interface do Grafana mostrando o dashboard com os dados em tempo real.
 
 
-[![Assistir ao vídeo de demonstração do dashboard](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/G23vsXYHjIo)
+<!-- [![Assistir ao vídeo de demonstração do dashboard](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/G23vsXYHjIo) -->
+
+
+<div style="text-align:center;"> 
+  <iframe width="560" height="315" 
+    src="https://youtu.be/G23vsXYHjIo" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 
 [Link do reposítório](https://github.com/rodrigorocha1/monitoramento_condicoes_climaticas_kafka_grafana)

@@ -51,7 +51,19 @@ O aplicativo oferece um dashboard interativo onde o usuário pode:
 1. O usuário entra com o nome de um canal no YouTube (Ex: `@TLESGames`) e a data e hora de publicação.
 2. O sistema realiza a busca no YouTube, recupera a transcrição bruta do vídeo e a trata para exibir de forma personalizada.
 3. A transcrição é então exibida em um dashboard interativo no Streamlit.
-[![Assistir ao vídeo de demonstração do projeto](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/w9WBX2nGrcY)
+<!-- [![Assistir ao vídeo de demonstração do projeto](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/w9WBX2nGrcY)
+ -->
+
+
+<div style="text-align:center;"> 
+  <iframe width="560" height="315" 
+    src="https://youtu.be/w9WBX2nGrcY" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 
 

@@ -38,7 +38,17 @@ O diagrama consiste em consumir um serviço de web scraping, que permite salvar 
 ## 3. Demonstração
 
 
-[![Assistir ao vídeo de demonstração do dashboard](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=DL7q3rfEc_8)
+
+
+<div style="text-align:center;"> 
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/watch?v=DL7q3rfEc_8" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 [Link do reposítório](https://github.com/rodrigorocha1/extracao_dados_produtos_vonder)
 
