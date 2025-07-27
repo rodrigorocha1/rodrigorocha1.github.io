@@ -72,7 +72,7 @@ O diagrama mostra como será o processo do web scraping:
 
 ## 4. Principais Funcionalidades
 
-### Requisitos Funcionais
+### 4.1  Requisitos Funcionais
 - Implementar busca pela URL.  
 - Verificar se a notícia está cadastrada; caso contrário, cadastrar.  
 - Validar texto da notícia.  
@@ -82,7 +82,7 @@ O diagrama mostra como será o processo do web scraping:
 
 ---
 
-## 5. Requisitos Não Funcionais
+## 4.2. Requisitos Não Funcionais
 - O código deve seguir os princípios **SOLID**.  
 - Utilizar o padrão **Cadeia de Responsabilidade**.  
 - Código com tipagem estática e documentação.  
@@ -92,7 +92,7 @@ O diagrama mostra como será o processo do web scraping:
 
 ---
 
-## 6. Exemplo Simplificado do Código
+## 5. Exemplo Simplificado do Código
 
 ```python
 
@@ -209,7 +209,7 @@ p1.handle(contexto)
 
 
 
-## 7. Vídeo com a demonstração do projeto 
+## 6. Vídeo com a demonstração do projeto 
 <!-- [![Assistir ao vídeo de demonstração do projeto](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/S-rt9kp7MdY)
 
 <div style="text-align:center;"> -->
