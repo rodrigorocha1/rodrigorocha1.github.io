@@ -5,7 +5,7 @@ summary: ""
 author: Rodrigo
 date: '2025-08-02 11:00:00 -0300'
 category: ['python', 'beautifulsoup', 'webscraping','padrao_de_projeto']
-thumbnail: /assets/img/posts/web_scraping_g1/web_scraping_dados_abertos_ons.png
+thumbnail: /assets/img/posts/web_scraping_ons/ons.png
 keywords: python, beautifulsoup, webscraping, padrao_de_projeto
 usemathjax: true
 permalink: /blog/web_scraping_dados_abertos_ons 
@@ -16,7 +16,7 @@ permalink: /blog/web_scraping_dados_abertos_ons
 
 - Criar um pipeline de dados fácil de realizar manutenção — estruturado, modular e escalável.
 - Discutir o padrão de projeto **Chain of Responsibility** (Cadeia de Responsabilidade).
-- Salvar os dados do site da ONS em um banco de dados.
+- Salvar os dados do site da ONS **(https://dados.ons.org.br/)** em um banco de dados.
 - Automatizar a carga para inserir apenas novos registros.
 - Registrar logs do pipeline nos níveis: `DEBUG`, `INFO`, `WARNING`, `ERROR`, `CRITICAL`.
 - Explorar o padrão de projeto Cadeia de Responsabilidade (Chain of Responsibility)
@@ -278,13 +278,14 @@ class GuardaDadosBancoHandler(Handler, ):
 <div style="text-align:center;"> -->
 <div style="text-align:center;"> 
   <iframe width="800" height="600" 
-    src="https://youtu.be/0MCuLV8ve30" 
+    src="https://www.youtube.com/embed/0MCuLV8ve30" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
     allowfullscreen>
   </iframe>
 </div>
+
 
 
 [Link do reposítório](https://github.com/rodrigorocha1/web_scraping_dados_abertos_ons)
