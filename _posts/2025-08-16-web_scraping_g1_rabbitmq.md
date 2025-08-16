@@ -62,7 +62,7 @@ O web scraping distribuído foi dividido em duas funções principais:
 
 ### 3.2 Diagrama de classes e padrões de projeto usados
 
-[![Diagrama de Classe]()]()
+[![Diagrama de Classe](https://github.com/rodrigorocha1/web_scraping_g1_rabbitmq/blob/master/diagramas/diagrama_de_classe.jpg?raw=true)](https://github.com/rodrigorocha1/web_scraping_g1_rabbitmq/blob/master/diagramas/diagrama_de_classe.jpg?raw=true)
 
 - **Observer / Work Queue**  
 Cada worker processa uma mensagem por vez. Se houver falha na extração ou geração do arquivo, a mensagem vai para a **DLQ (Dead Letter Queue)**.
@@ -112,7 +112,7 @@ Presente em `IwebScapingBase` e `WebScrapingBs4Base`. Define o fluxo de web scra
 <div style="text-align:center;"> -->
 <div style="text-align:center;"> 
   <iframe width="800" height="600" 
-    src="https://www.youtube.com/embed/S-rt9kp7MdY" 
+    src="https://youtu.be/WGseNgi1JOQ" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
@@ -121,4 +121,4 @@ Presente em `IwebScapingBase` e `WebScrapingBs4Base`. Define o fluxo de web scra
 </div>
 
 
-[Link do reposítório](https://github.com/rodrigorocha1/web_scraping_g1)
+[Link do reposítório](https://github.com/rodrigorocha1/web_scraping_g1_rabbitmq)
