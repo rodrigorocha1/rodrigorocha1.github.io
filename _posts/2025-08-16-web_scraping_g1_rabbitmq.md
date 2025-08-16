@@ -112,7 +112,7 @@ Presente em `IwebScapingBase` e `WebScrapingBs4Base`. Define o fluxo de web scra
 <div style="text-align:center;"> -->
 <div style="text-align:center;"> 
   <iframe width="800" height="600" 
-    src="https://youtu.be/WGseNgi1JOQ" 
+    src="https://www.youtube.com/embed/WGseNgi1JOQ" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
@@ -121,4 +121,4 @@ Presente em `IwebScapingBase` e `WebScrapingBs4Base`. Define o fluxo de web scra
 </div>
 
 
-[Link do reposítório](https://github.com/rodrigorocha1/web_scraping_g1_rabbitmq)
+[Link do reposítório](https://github.com/rodrigorocha1/web_scraping_g1)
