@@ -432,8 +432,10 @@ header {
     margin-top: 20px;
     margin-left: -35px;
 
-    img {
-        max-width: 100%;
+      img {
+        display: block;      // necessário para margin auto funcionar
+        max-width: 50%;
+        margin: 0 auto;      // centraliza horizontalmente
     }
 }
 
