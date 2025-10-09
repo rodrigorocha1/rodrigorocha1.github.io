@@ -42,13 +42,14 @@ O diagrama consiste em consumir um serviço de web scraping, que permite salvar 
 
 <div style="text-align:center;"> 
   <iframe width="800" height="600" 
-    src="https://www.youtube.com/watch?v=DL7q3rfEc_8" 
+    src="https://www.youtube.com/embed/DL7q3rfEc_8" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
     allowfullscreen>
   </iframe>
 </div>
+
 
 [Link do reposítório](https://github.com/rodrigorocha1/extracao_dados_produtos_vonder)
 
