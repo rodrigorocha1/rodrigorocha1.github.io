@@ -189,7 +189,7 @@ A figura abaixo, mostra uma proposta de diagrama de classe, com destaque para a 
 
 <div style="text-align:center;"> 
   <iframe width="800" height="600" 
-    src="https://youtu.be/ZSlhMPwnRPY" 
+    src="https://youtu.be/embed/ZSlhMPwnRPY" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
