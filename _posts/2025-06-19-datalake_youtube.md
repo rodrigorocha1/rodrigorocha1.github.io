@@ -240,7 +240,7 @@ A figura abaixo mostra o diagrama de classe. Com base no diagrama, o processo é
 
 <div style="text-align:center;"> 
   <iframe width="800" height="600" 
-    src="https://youtu.be/YQ58jGFTp4s" 
+    src="https://www.youtube.com/embed/YQ58jGFTp4s" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 

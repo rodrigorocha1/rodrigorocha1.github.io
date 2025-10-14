@@ -40,7 +40,7 @@ A figura abaixo mostra o diagrama de classe para o serviço de web scraping.A pr
 
 <div style="text-align:center;"> 
   <iframe width="800" height="600" 
-    src="https://youtu.be/embed/tLYOw8iu-SM" 
+    src="https://www.youtube.com/embed/tLYOw8iu-SM" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 

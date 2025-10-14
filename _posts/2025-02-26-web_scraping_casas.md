@@ -50,7 +50,7 @@ O diagrama de classe do projeto, ilustrado abaixo, organiza as classes e destaca
 
 <div style="text-align:center;"> 
   <iframe width="800" height="600" 
-    src="https://youtu.be/embed/mcVH0QNHtVY" 
+    src="https://www.youtube.com/embed/mcVH0QNHtVY" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 

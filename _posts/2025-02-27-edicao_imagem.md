@@ -54,7 +54,7 @@ Para esta demonstração, foi utilizado um certificado genérico gerado no Canva
 
 <div style="text-align:center;"> 
   <iframe width="800" height="600" 
-    src="https://youtu.be/Bx9Vhj5DiCU" 
+    src="https://www.youtube.com/embed/Bx9Vhj5DiCU" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 

@@ -57,7 +57,7 @@ O aplicativo oferece um dashboard interativo onde o usuário pode:
 
 <div style="text-align:center;"> 
   <iframe width="800" height="600" 
-    src="https://youtu.be/embed/w9WBX2nGrcY" 
+    src="https://www.youtube.com/embed/w9WBX2nGrcY" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
