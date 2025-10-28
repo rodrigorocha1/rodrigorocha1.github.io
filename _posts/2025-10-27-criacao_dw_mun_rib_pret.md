@@ -23,6 +23,7 @@ permalink: /blog/datawarehouse_clima_rp
 * **Flower**: Monitoramento das tarefas do Celery em tempo real.
 * **SQL SERVER**: Banco de dados para a construção do datawarehouse.
 * **Docker Compose**: Empacotamento e execução dos serviços em ambiente isolado e padronizado.
+* **DBT (Data Build Tool)** (transformações de dados e modelagem no data warehouse)
 
 ## 2. 🏗️ Arquitetura da solução
 
@@ -295,7 +296,7 @@ CREATE TABLE FT_CLIMA (
 
 <div style="text-align:center;"> 
   <iframe width="800" height="600" 
-    src="https://www.youtube.com/embed/ZSlhMPwnRPY" 
+    src="https://www.youtube.com/embed/Bya17xBQpZ8" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
