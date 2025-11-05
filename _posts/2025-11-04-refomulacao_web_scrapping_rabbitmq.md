@@ -5,7 +5,7 @@ summary: "O objetivo do projeto é propor um sistema distribuído de coleta e am
 author: Rodrigo
 date: '2025-11-04 22:43:00 -0300'
 category: ['python', 'nosql', 'rabbitmq']
-thumbnail: /assets/img/posts/analise_dados_youtube/thumb.png
+thumbnail: /assets/img/posts/refomulacao_web_scrapping_rabbitmq/thumb.png
 keywords:  python, nosql, rabbitmq
 usemathjax: true
 permalink: /blog/refomulacao_web_scrapping_rabbitmq
@@ -20,11 +20,11 @@ permalink: /blog/refomulacao_web_scrapping_rabbitmq
 - **Banco de dados NoSQL de chave-valor:** Redis
 - **Banco de dados NoSQL de documentos:** MongoDB
 
-## 3 - Arquitetura da Solução
+##  - Arquitetura da Solução
 
-### 3.1 – Estrutura do Banco Redis
+###  – Estrutura do Banco Redis
 
-#### 3.1.1 – Links Processados
+####  – Links Processados
 
 Os links serão guardados em um **conjunto ordenado de strings únicas (ZSET)**, com ordenamento para registrar os históricos de links processados.  
 Essa estrutura permite **evitar que o mesmo link seja processado novamente**.
@@ -48,7 +48,7 @@ ZADD links:processados:ribeirao_preto 1697725200 "link_do_site"
 
 
 
-### 3.1.2 – Log de cada URL na fila
+### – Log de cada URL na fila
 
 Os logs de cada URL serão gravados no banco **Redis**, sempre informando se é o **primeiro envio** ou **envio da fila DLX**.  
 Cada log será armazenado como um **par de chave-valor (HSET)**, registrando todas as informações relevantes do processamento.
@@ -76,7 +76,7 @@ mensagem ""
 
 
 
-### 3.1.3 – Registro de Erro na Fila DLX
+###  Registro de Erro na Fila DLX
 
 Quando o processamento de uma URL falha, ela é encaminhada para a **DLX (Dead Letter Exchange)** do RabbitMQ.  
 O **Redis** pode ser utilizado para armazenar o histórico de erros e a contagem de falhas, facilitando o monitoramento e o reprocessamento posterior.
@@ -123,7 +123,7 @@ Quando o reprocessamento da URL for feito com sucesso, o registro correspondente
 - **RNF3** – Caso o sistema falhe, a **mensagem deve permanecer na fila** até que outro consumidor assuma o processamento.
 
 
-### 3.4 – 📐 Diagrama de Classes
+###  – 📐 Diagrama de Classes
 
 <div style="text-align: center;">
   <img 
@@ -143,12 +143,12 @@ A figura acima mostra o diagrama de classes.
 
 
 
-[![Assistir ao vídeo de demonstração do projeto](https://img.shields.io/badge/🎬%20Assistir%20ao%20vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lbeXxPMNq0o)
+)
 
 
 <div style="text-align:center;"> 
   <iframe width="800" height="600" 
-    src="https://www.youtube.com/embed/lbeXxPMNq0o" 
+    src="https://www.youtube.com/embed/JLkdLCLx3kc" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
@@ -158,7 +158,7 @@ A figura acima mostra o diagrama de classes.
 
 
 
-[Clique aqui para ir ao link do reposítório](https://github.com/rodrigorocha1/analise_dados_youtube)
+[Clique aqui para ir ao link do reposítório](https://github.com/rodrigorocha1/web_scraping_g1_rabbitmq_reformulado)
 
 
 
