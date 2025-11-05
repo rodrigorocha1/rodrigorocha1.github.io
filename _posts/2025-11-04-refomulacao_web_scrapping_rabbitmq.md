@@ -26,7 +26,7 @@ permalink: /blog/refomulacao_web_scrapping_rabbitmq
 
 ####  – Links Processados
 
-Os links serão guardados em um **conjunto ordenado de strings únicas (ZSET)**, com ordenamento para registrar os históricos de links processados.  
+Os links serão guardados em um **conjunto ordenado de strings únicas (ZADD)**, com ordenamento para registrar os históricos de links processados.  
 Essa estrutura permite **evitar que o mesmo link seja processado novamente**.
 
 **Exemplo de comando Redis:**
