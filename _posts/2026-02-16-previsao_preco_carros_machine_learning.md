@@ -101,8 +101,8 @@ A tabela abaixo mostra os melhores resultados após o tuning de parâmetros:
 
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/rodrigorocha1/web_scraping_mh_fipe/refs/heads/master/fig/feature_importance_TransformedTargetRegressor.png?token=GHSAT0AAAAAADRHNADSZE26KXEIUHNZJLII2MTWOCA" width="50%">
-  <img src="https://raw.githubusercontent.com/rodrigorocha1/web_scraping_mh_fipe/refs/heads/master/fig/feature_importance_RandomForestRegressor.png?token=GHSAT0AAAAAADRHNADTUHK3UEDI24XJR6UE2MTWOGA" width="50%">
+  <img src="https://raw.githubusercontent.com/rodrigorocha1/web_scraping_mh_fipe/refs/heads/master/fig/feature_importance_TransformedTargetRegressor.png?token%3DGHSAT0AAAAAADRHNADSZE26KXEIUHNZJLII2MTWOCA" width="50%">
+  <img src="https://raw.githubusercontent.com/rodrigorocha1/web_scraping_mh_fipe/refs/heads/master/fig/feature_importance_RandomForestRegressor.png" width="50%">
 </div>
 
 
@@ -117,7 +117,7 @@ O teste de Friedman é um teste não paramétrico para medidas repetidas, usado 
 O teste de Nemenyi é um teste pós-hoc não paramétrico, usado após o teste de Friedman para comparar pares de grupos e identificar quais tratamentos diferem.
 ``
 
-![Over Under](https://raw.githubusercontent.com/rodrigorocha1/web_scraping_mh_fipe/refs/heads/master/fig/cd_diagram_scikit_posthocs.png?token=GHSAT0AAAAAADRHNADTNME4BRI7HHTNMCCE2MTWSFA)
+![Over Under](https://raw.githubusercontent.com/rodrigorocha1/web_scraping_mh_fipe/refs/heads/master/fig/over_under_random_forest.png)
 
 
 
