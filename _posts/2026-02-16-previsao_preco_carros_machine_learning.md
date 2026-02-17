@@ -100,10 +100,12 @@ A tabela abaixo mostra os melhores resultados após o tuning de parâmetros:
 ### 4.4 – Análise da Importância dos Atributos
 
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/rodrigorocha1/web_scraping_mh_fipe/refs/heads/master/fig/feature_importance_TransformedTargetRegressor.png" width="50%">
-  <img src="https://raw.githubusercontent.com/rodrigorocha1/web_scraping_mh_fipe/refs/heads/master/fig/feature_importance_RandomForestRegressor.png" width="50%">
-</div>
+![Distribuição de Preços](https://raw.githubusercontent.com/rodrigorocha1/web_scraping_mh_fipe/refs/heads/master/fig/feature_importance_TransformedTargetRegressor.png)
+
+
+![Distribuição de Preços](https://raw.githubusercontent.com/rodrigorocha1/web_scraping_mh_fipe/refs/heads/master/fig/feature_importance_RandomForestRegressor.png)
+
+
 
 
 As figuras acimas mostram as importancias das caracteristicas para random florest e rede neural. Os gráficos revalo para o atributo ano modelo do random forest, este apresenta 50% da importância , mostrando que a drepeciação temporal é um fator decisivo para o modelo.
