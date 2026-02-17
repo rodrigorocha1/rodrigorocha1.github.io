@@ -61,14 +61,14 @@ Para garantir a robustez e escalabilidade do projeto, foram empregadas as seguin
 
 ### 4.1 Análise Exploratória de Dados (EDA)
 
-![Distribuição de Preços](https://raw.githubusercontent.com/rodrigorocha1/web_scraping_mh_fipe/refs/heads/master/fig/precos.png?token=GHSAT0AAAAAADRHNADTLM7F5VTDBH42ESOQ2MTWIGA)
+![Distribuição de Preços](https://raw.githubusercontent.com/rodrigorocha1/web_scraping_mh_fipe/refs/heads/master/fig/precos.png)
 
 
 A figura acima mostra a distribuição de preços do carro. Ela mosta que a grande maioria de carros, variam de R$30 mil a R$ 150 mil, indicqando carros populares, puxando a calda mais a equerda, para regressores lineares, podem ter dificuldade com essa assimétria.
 
 ### 4.2 – Análise overfiting – underfiting
 
-![Over Under](https://raw.githubusercontent.com/rodrigorocha1/web_scraping_mh_fipe/refs/heads/master/fig/over_under_random_forest.png?token=GHSAT0AAAAAADRHNADSALSLEKQEX7ARPT6O2MTWKTQ)
+![Over Under](https://raw.githubusercontent.com/rodrigorocha1/web_scraping_mh_fipe/refs/heads/master/fig/over_under_random_forest.png)
 
 
 A figura acima mostra o desempenho overfiting e underfiting, com base nas diferenças do rmse treino e teste, o modelo consegue generalizar para os dados novos.
@@ -101,7 +101,7 @@ A tabela abaixo mostra os melhores resultados após o tuning de parâmetros:
 
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/rodrigorocha1/web_scraping_mh_fipe/refs/heads/master/fig/feature_importance_TransformedTargetRegressor.png?token%3DGHSAT0AAAAAADRHNADSZE26KXEIUHNZJLII2MTWOCA" width="50%">
+  <img src="https://raw.githubusercontent.com/rodrigorocha1/web_scraping_mh_fipe/refs/heads/master/fig/feature_importance_TransformedTargetRegressor.png" width="50%">
   <img src="https://raw.githubusercontent.com/rodrigorocha1/web_scraping_mh_fipe/refs/heads/master/fig/feature_importance_RandomForestRegressor.png" width="50%">
 </div>
 
