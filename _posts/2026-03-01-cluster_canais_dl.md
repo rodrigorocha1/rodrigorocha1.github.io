@@ -86,3 +86,16 @@ Palavras chaves: **"pra fazer"**, **"vc vai"**, **"pra vc"**, **"próximo vídeo
 É o grupo onde há discusão sobre construção de base, relacionados a simuladores de estrátegia e construção de cidades/ jogos complexos
 
 Palavras chaves: "**pra fazer**", "**dá pra**", "**main bus**", "**painel solar**", "**usina nuclear**", "**cidade**”,  “**acho ficaria**”, “**japonesa**",
+
+
+
+<div style="text-align:center;"> 
+  <iframe width="800" height="600" 
+    src="https://www.youtube.com/embed/lAP82v2l2HQ" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
