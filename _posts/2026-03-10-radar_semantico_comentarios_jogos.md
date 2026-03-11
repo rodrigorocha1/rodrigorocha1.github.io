@@ -166,7 +166,7 @@ Aqui, os comentários são majoritariamente em português, focados em interaçõ
 
 ## U-matrix
 
-
+![u_matrix](https://raw.githubusercontent.com/rodrigorocha1/radar_semantico_jogos/refs/heads/master/img/u_matrix.png)
 
 ## Regiões de Comportamento na U-Matrix
 
@@ -192,7 +192,7 @@ Com base na u-matrix, foram separados 3 regiões de comportamento e comentários
 Contém reações emocionais fortes, opiniões extremas, linguagem informal ou impulsiva e mistura de entusiasmo re rejeição
 
 ## Hit map 
-![hit_map](https://raw.githubusercontent.com/rodrigorocha1/radar_semantico_jogos/refs/heads/master/img/hit_map.png
+![hit_map](https://raw.githubusercontent.com/rodrigorocha1/radar_semantico_jogos/refs/heads/master/img/hit_map.png)
 
 ## Detalhamento das Regiões do Mapa
 
