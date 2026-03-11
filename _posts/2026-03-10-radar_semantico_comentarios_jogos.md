@@ -5,10 +5,10 @@ summary: "Monitorar e analisar comentários de vídeos de jogos no YouTube e rev
 author: Rodrigo
 date: '2026-03-10 21:38:00 -0300'
 category: ['deep_learning', 'tensorflow', 'python', 'youtube', 'mapa auto-organizável']
-thumbnail: /assets/img/posts/cluster_canais_dl/thumb.png
-keywords: Deep learning, Pytorch, Python, Kmeans, Restricted Boltzman Machines
+thumbnail: /assets/img/posts/radar_semantico_jogos/thumb.png
+keywords: Deep learning, tensorflow, Python, mapa auto-organizável
 usemathjax: true
-permalink: /blog/cluster_canais_dl/
+permalink: /blog/radar_semantico_comentarios_jogos/
 ---
 
 
